@@ -1,5 +1,4 @@
 name: Azure Static Web Apps CI/CD
-app_location: "/"
 output_location: ""  # esto evita que intente compilar nada
 
 on:
